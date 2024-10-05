@@ -1,6 +1,6 @@
 # Self-Driving Car AI Simulation
 
-![Self-Driving Car AI Demo]([https://via.placeholder.com/468x300.png?text=Self-Driving+Car+AI+Demo](https://youtu.be/-WbLeueDsLU))
+![Self-Driving Car AI Demo](https://youtu.be/-WbLeueDsLU)
 
 ## 🚗 Overview
 
