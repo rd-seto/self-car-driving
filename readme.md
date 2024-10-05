@@ -1,6 +1,7 @@
-# Self-Driving Car AI Simulation
+[# Self-Driving Car AI Simulation
 
-![Self-Driving Car AI Demo](https://youtu.be/-WbLeueDsLU)
+![Self-Driving Car AI Demo](https://img.youtube.com/vi/-WbLeueDsLU/0.jpg)](https://youtu.be/-WbLeueDsLU)
+
 
 ## 🚗 Overview
 
@@ -85,3 +86,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 Happy coding, and may your AI cars drive safely! 🚗💨
+](https://youtu.be/-WbLeueDsLU)
