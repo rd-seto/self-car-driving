@@ -1,6 +1,10 @@
 [# Self-Driving Car AI Simulation
 
-[![Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/rd-seto/self-car-driving/raw/main/October%205,%202024.mp4)
+<video width="600" controls>
+  <source src="https://github.com/rd-seto/self-car-driving/raw/main/October%205,%202024.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## 🚗 Overview
