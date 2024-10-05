@@ -1,6 +1,6 @@
 [# Self-Driving Car AI Simulation
 
-![Self-Driving Car AI Demo](https://img.youtube.com/vi/-WbLeueDsLU/0.jpg)](https://youtu.be/-WbLeueDsLU)
+[![Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/rd-seto/self-car-driving/raw/main/October%205,%202024.mp4)
 
 
 ## 🚗 Overview
